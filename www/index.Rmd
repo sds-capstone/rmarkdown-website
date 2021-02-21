@@ -5,4 +5,15 @@ output:
     toc: false
 ---
 
-![Alt text](/Users/sakaizarasolofomananarajery/Desktop/Last Semester/SDS400/SakaizaPoster.jpg)
+Write stuff in Markdown here. Like **bold** things and *italic* things. 
+
+And images:
+
+![](https://github.com/rasolofomananarajery/rmarkdown-website/blob/master/docs/SakaizaPoster.jpg)
+
+And don't forget about R code:
+
+```{r}
+knitr::kable(mtcars)
+```
+
