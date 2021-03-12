@@ -5,15 +5,6 @@ output:
     toc: false
 ---
 
-Write stuff in Markdown here. Like **bold** things and *italic* things. 
 
-And images:
-
-![](https://media.giphy.com/media/1hqYk0leUMddBBkAM7/giphy.gif)
-
-And don't forget about R code:
-
-```{r}
-knitr::kable(mtcars)
-```
+![](/Users/sakaizarasolofomananarajery/Desktop/Last Semester/SDS400/SakaizaPoster.jpg)
 

@@ -1,0 +1,13 @@
+---
+title: "My third Blog Post"
+---
+
+Challenging power is hard because it cannot be done by machines and algorithms. It is not a linear process rooted in rational and logic. Yet, these characteristics, linear, logic, rational, automated, define the current organization of the world.  In Data Feminism they refer to the product of this combination as the matrix of domination. A structure which continuously inflicts pain to minorities for the benefit of the dominant group.
+
+Several concepts adopted through this matrix has shaped our understanding of what objectivity looks like. This has reached an extent where it has influenced the world definition of “default” and hence built the world we now see. Repairing the damages caused by the matrix and undoing its structure must be an act of co-liberation and relies on our ability to integrate Justice and equity in our daily life. 
+
+Data feminism exemplifies the act of challenging power, as a work of research, trials, failure and improvement embedded in diversity, vulnerability and humility. This can only be achieved with the knowledge of history and culture both in the past and the present context. 
+
+The book shows how three women with the goal of teaching data science, deviated from the traditional path and challenged educational system to challenge power and make youth’s learning truly efficient and relatable.
+I was amazed while reading about the lotto project, as I realized how beautiful learning can be when those who organize it are willing to go against mainstream ideas, acknowledge the struggle of others and craft their work with the genuine interest of the intended audience at heart. Challenging power is definitely a work that is not only needed in data science but also in every single area that has been impacted by the matrix of domination.  
+

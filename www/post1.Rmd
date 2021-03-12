@@ -1,5 +1,10 @@
 ---
-title: "My first story"
+title: "From Data to Data Feminism"
 ---
 
-It was a dark and stormy night...
+
+
+When I think of data science, I think of the label, “Sexiest job of the 21st century. I think of the articles on my Google news titled: how to become a data scientist in 3 months, get started with our bootcamp, becoming a data scientist without a degree. And I think to myself, oh … there it goes. Data Science has become a business, just like education, beauty, art, nutrition, health, etc. Somehow, I think that this is all just a huge pyramid scheme where the goal is to maximize profit by selling hopes. And funny enough, data science seems like the perfect fit for that. It is new, it is complex, it shows a great promise for wealth and it seems accessible to all. This is how I have started viewing Data Science for the past year or so. The fast-paced trendy new game of our era.
+
+
+Yet, when I read Data Feminism, I see data science shaped under another light. A light where it can tell stories of struggles, inequality and fight. A light where when handled by the right people, it turns into a tool to advocate for equality. From my own view of data science to what the book data feminism talks about I came to realize the incredible amount of human intervention needed to make data science a human practice. The book Data Feminism forces us to have a more critical opinion and hence a well-thought action plan on how we want to utilize Data. As complex beings, we take part into the making and breaking of human struggles. Data feminism urges its audience to merge together the intersection of their identities and the consideration of other identities when thinking of the best use of data science. 
